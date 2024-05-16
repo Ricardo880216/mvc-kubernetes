@@ -1,0 +1,450 @@
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.exe
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.deps.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.dev.json
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.pdb
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.csprojAssemblyReference.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.CoreCompileInputs.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.MvcApplicationPartsAssemblyInfo.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfoInputs.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfo.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.input.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.output.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorCoreGenerate.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.CopyComplete
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.Manifest.cache
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.xml
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.dll
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.pdb
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.genruntimeconfig.cache
+C:\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Create.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Delete.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Details.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Edit.cshtml.g.cs
+C:\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Index.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.AssemblyReference.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfoInputs.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfo.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.CoreCompileInputs.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cs
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.StaticWebAssets.xml
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.exe
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.deps.json
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.json
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.dev.json
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.pdb
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.Manifest.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.Pack.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVCPrototipo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVCPrototipo.props
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVCPrototipo.props
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVCPrototipo.props
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.input.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.output.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorCoreGenerate.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Create.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Delete.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Details.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Edit.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Index.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cache
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cs
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.CopyComplete
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.dll
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.pdb
+C:\temp\DockerKubernetesApp\obj\Debug\netcoreapp3.1\MVCPrototipo.genruntimeconfig.cache
+C:\temp\DockerKubernetesApp\bin\Debug\netcoreapp3.1\Bogus.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.StaticWebAssets.xml
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.exe
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.deps.json
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.json
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.runtimeconfig.dev.json
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.pdb
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Bogus.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.AssemblyReference.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfoInputs.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.AssemblyInfo.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.csproj.CoreCompileInputs.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorAssemblyInfo.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.input.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.TagHelpers.output.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorCoreGenerate.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Create.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Delete.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Details.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Edit.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Instructor\Index.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.RazorTargetAssemblyInfo.cs
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.Views.pdb
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.Manifest.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\MVCPrototipo.StaticWebAssets.Pack.cache
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MVCPrototipo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MVCPrototipo.props
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MVCPrototipo.props
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MVCPrototipo.props
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCProto.7C74C378.Up2Date
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.dll
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.pdb
+D:\OneDrive - TecNM Instituto Tecnológico de Apizaco\Escuela Tercer y Cuarto Semestre\4to Programación II\Curso Udemy CRUD\MVCPrototipo\obj\Debug\netcoreapp3.1\MVCPrototipo.genruntimeconfig.cache
